@@ -1,2 +1,2 @@
 # PasswordHasher
-Password Hasher
+This is a personal project that I made in 2023. It was an attempt to better understand password hashing using Java as my language of choice. I learned a lot about password hashing from this project and, while never fully refined, I still gained a lot of valuable information into password hashing. This includes the different types of hashing, salt, encryption, and decryption. This project also attempts to ask the user to enter a password containing special characters that must be a certain length. All of these features are early testing for what was going to be a password login screen. Simply running the .jar file should allow the user to see the program in action. Note that java must be downloaded on the desktop for the code to run. 
